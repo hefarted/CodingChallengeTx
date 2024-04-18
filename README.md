@@ -1,8 +1,8 @@
-# CodingChallengeTx
+# CodingChallengexTx
 
 ## Overview
 
-Coding Challenge for TRIPEX
+Coding Challenge for XTX - (Confidential)
 
 ## Features
 
